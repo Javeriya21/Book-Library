@@ -1,6 +1,6 @@
 # Book-Library :books:
 
- **A classic online book library has all the feature of a physical library. book library system should be user friendly and easy to understand.**
+ <sup>**A classic online book library has all the feature of a physical library. book library system should be user friendly and easy to understand.**<sup>
  
 
  
@@ -58,7 +58,7 @@
 - Google Book API
 
 
-# Weather App Live Demo:
+# Book Library App Live Demo:
 
  [Live Demo Link](http://localhost:3000/)
  
@@ -73,7 +73,7 @@
 
 - Github: [Javeriya21]( https://github.com/Javeriya21 )
 
-- Linkedin: [Javeriya Shaikh](  )
+- Linkedin: [Javeriya Shaikh](https://www.linkedin.com/in/javeriya-shaikh-228a99209)
 
 - Email Id: shaikhjaveriya7@gmail.com     
 
