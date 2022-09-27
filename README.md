@@ -6,7 +6,7 @@
  
  
  
- ## '#0969DA' Home Page:
+ ## Home Page:
    ![Screenshot (69)](https://user-images.githubusercontent.com/108418892/192137366-eb521948-79e8-4b19-852f-6a78021c0b6b.png)
 
 
@@ -14,20 +14,20 @@
 
 
 
-## '#0969DA'About Page:
+## About Page:
   ![Screenshot (70)](https://user-images.githubusercontent.com/108418892/192137409-4ad7e19c-0c03-4a5d-9a49-dc954cd9d112.png)
 
 
 
 
-## '#0969DA'Search Book: 
+## Search Book: 
  ![Screenshot (71)](https://user-images.githubusercontent.com/108418892/192137455-655cc0d8-97fe-44d6-a7ec-46a260103e67.png)
 
 
 
 
 
-## '#0969DA'Result:
+## Result:
 
 
 
