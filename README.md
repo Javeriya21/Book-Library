@@ -60,7 +60,7 @@
 
 # Weather App Live Demo:
 
- [Live Demo Link]
+ [Live Demo Link](http://localhost:3000/)
  
 
 # Loom video Link
